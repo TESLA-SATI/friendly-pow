@@ -1,0 +1,4 @@
+: simulate PoW in Solana for experimental purposes\ POW consensus {
+  "image": "mcr.microsoft.com/devcontainers/universal:2",
+  "features": {}
+}
